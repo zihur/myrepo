@@ -1,3 +1,12 @@
+## quick link
+- [week7-hw1](https://zihur.github.io/myrepo/week7/hw1)
+- [week7-hw2](https://zihur.github.io/myrepo/week7/hw2)
+- [week7-hw3](https://zihur.github.io/myrepo/week7/hw3)
+- [week8-hw1](https://zihur.github.io/myrepo/week8/hw1)
+- [week8-hw2](https://zihur.github.io/myrepo/week8/hw2)
+- [week8-hw3](https://zihur.github.io/myrepo/week8/hw3)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zihur/myrepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
