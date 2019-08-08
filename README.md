@@ -1,10 +1,11 @@
-## quick link
-- [week7-hw1](https://zihur.github.io/myrepo/week7/hw1)
-- [week7-hw2](https://zihur.github.io/myrepo/week7/hw2)
-- [week7-hw3](https://zihur.github.io/myrepo/week7/hw3)
-- [week8-hw1](https://zihur.github.io/myrepo/week8/hw1)
-- [week8-hw2](https://zihur.github.io/myrepo/week8/hw2)
-- [week8-hw3](https://zihur.github.io/myrepo/week8/hw3)
+## 各小作品 quick link
+- [week7-hw1](https://zihur.github.io/myrepo/week7/hw1) 反應力小遊戲 - JS 練功
+- [week7-hw2](https://zihur.github.io/myrepo/week7/hw2) 仿 Google 表單 - Dom 操作
+- [week7-hw3](https://zihur.github.io/myrepo/week7/hw3) 計算機 ( 半成品 ) - 代理機制運用
+- [week8-hw1](https://zihur.github.io/myrepo/week8/hw1) 火鍋店抽獎程式 - 用 xhr 串 API
+- [week8-hw2](https://zihur.github.io/myrepo/week8/hw2) 火鍋店留言板 - 用 xhr 串 API
+- [week8-hw3](https://zihur.github.io/myrepo/week8/hw3) 當下熱門遊戲直播列表 - 串 Twitch API
+- [week12](http://mentor-program.co/group3/zihur/week12/index.php) 會員系統留言板 ( 未完善 ) - php, mySQL
 
 
 ## Welcome to GitHub Pages
@@ -12,35 +13,3 @@
 You can use the [editor on GitHub](https://github.com/zihur/myrepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zihur/myrepo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
