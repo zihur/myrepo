@@ -1,6 +1,6 @@
 ## 使用 vue.js 所做的練習網站
-- [Twitch 直播串流平台](https://zihur.github.io/vue3-twitch-top-game/) - Vue3 Composition API、Vuex、資料傳遞運用、RWD
-- [信用卡畫面切版](https://zihur.github.io/credit-cards-layout) - Vue3、Vue-router、畫面切版練習、CSS 變數
+- [Twitch 直播串流平台](https://zihur.github.io/vue3-twitch-top-game/) - Vue3 Composition API、Vuex、RWD，串接 Twitch 公開資料 <br>(部分功能可能隨 twitch api 修改而失效)
+- [信用卡 APP 畫面切版](https://zihur.github.io/credit-cards-layout) - Vue3、Vue-router、畫面切版練習、CSS 變數
 
 ## 各小作品 quick link
 - [week7-hw1](https://zihur.github.io/myrepo/week7/hw1) 反應力小遊戲 - JS 練功
