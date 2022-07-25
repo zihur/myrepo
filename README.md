@@ -9,7 +9,7 @@
 - [week8-hw1](https://zihur.github.io/myrepo/week8/hw1) 火鍋店抽獎程式 - 用 xhr 串 API
 - [week8-hw2](https://zihur.github.io/myrepo/week8/hw2) 火鍋店留言板 - 用 xhr 串 API
 - [week8-hw3](https://zihur.github.io/myrepo/week8/hw3) 當下熱門遊戲直播列表 - 串 Twitch API
-- [week12](http://mentor-program.co/group3/zihur/week12/index.php) 會員系統留言板 ( 未完善 ) - php, mySQL
+- [week12](http://mentor-program.co/group3/zihur/week12/index.php) 會員系統留言板 - php, mySQL
 
 ## 個人網站架站 (目前僅學習使用 jekyll)
 - [部落格](https://zihur.github.io) - 使用 github page 搭配 jekyll 架站、日後放上不定期學習紀錄
